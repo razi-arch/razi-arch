@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Adam Razi 👋
 
-<!--
-**razi-arch/razi-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Diploma in Computer Science @ Kolej Profesional MARA Beranang
+📊 CGPA: 3.89 (Dean's List) | SAS Certified
+📍 Selangor, Malaysia
+🔍 Seeking Internship | Aug – Oct 2026
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+| Project | Tech | Description |
+|---|---|---|
+| [Smart AAC App](#) | Flutter, Firebase | Communication app for non-verbal autistic children |
+| [BrainWave](#) | Flutter, SQLite | Smart quiz app with performance tracking |
+| [AniVerse](https://github.com/razi-arch/Aniverse-OOP-Final) | Electron.js, JS | Desktop anime tracker with REST API |
+| [SMKBTK System](#) | Laravel, MySQL | Student result management web system |
+| [TechCom Chat](#) | Node.js, Redis | Distributed real-time chat application |
+| [Network Design](#) | Cisco Packet Tracer | Enterprise network with OSPF & VLANs |
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-razi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:razidisini@gmail.com)
