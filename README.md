@@ -3,7 +3,7 @@
 🎓 Final Year Diploma in Computer Science @ Kolej Profesional MARA Beranang
 📚 All Semesters Dean's List Holder | Working on SAS Certification 
 📍 Beranang,Selangor, Malaysia
-🔍 An eager learner | CyberSecurity, Networking & Cloud Enthusiast
+🔍 An eager learner | CyberSecurity, Networking ,Cloud & AI Enthusiast
 
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
