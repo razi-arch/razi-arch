@@ -3,7 +3,7 @@
 🎓 Final Year Diploma in Computer Science @ Kolej Profesional MARA Beranang
 📊 CGPA: 3.89 (Dean's List) | SAS Certified
 📍 Selangor, Malaysia
-🔍 Seeking Internship | Aug – Oct 2026
+🔍 An eager learner | CyberSecurity, Networking & Cloud Enthusiast
 
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
