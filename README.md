@@ -17,7 +17,7 @@
 ## 🚀 Featured Projects
 | Project | Tech | Description |
 |---|---|---|
-| [Smart AAC App](#) | Flutter, Firebase | Communication app for non-verbal autistic children |
+| [SpeakUp! (Smart AAC App)](#) | Flutter, Firebase | Communication app for non-verbal autistic children |
 | [BrainWave](#) | Flutter, SQLite | Smart quiz app with performance tracking |
 | [AniVerse](https://github.com/razi-arch/Aniverse-OOP-Final) | Electron.js, JS | Desktop anime tracker with REST API |
 | [SMKBTK System](#) | Laravel, MySQL | Student result management web system |
