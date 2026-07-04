@@ -1,8 +1,8 @@
 # Hi, I'm Adam Razi 👋
 
 🎓 Final Year Diploma in Computer Science @ Kolej Profesional MARA Beranang
-📊 CGPA: 3.89 (Dean's List) | SAS Certified
-📍 Selangor, Malaysia
+📚 All Semesters Dean's List Holder | Working on SAS Certification 
+📍 Beranang,Selangor, Malaysia
 🔍 An eager learner | CyberSecurity, Networking & Cloud Enthusiast
 
 ## 🛠️ Tech Stack
